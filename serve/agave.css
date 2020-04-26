@@ -1,0 +1,7 @@
+@font-face {
+    font-family: 'Agave';
+    src: url('src/agave/Agave-Regular.woff2') format('woff2'),
+        url('src/agave/Agave-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
