@@ -22,7 +22,7 @@ Visit the documentation at [docs.xz.style/fonts](https://docs.xz.style/fonts) fo
 
 ## Having trouble?
 
-Don't worry! [Open an issue here](https://github.com/xz/open-fonts/issues). I'll gladly help you out.
+Don't worry! [Open an issue here](https://github.com/xz/fonts/issues). I'll gladly help you out.
 
 ## Special Thanks
 
