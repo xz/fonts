@@ -1,0 +1,16 @@
+{
+  "name": "@xz/fonts",
+  "version": "0.0.3",
+  "description": "A fast, open-source CDN for open-source fonts",
+  "main": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xz/fonts.git"
+  },
+  "author": "Example (exampledev@protonmail.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xz/fonts/issues"
+  },
+  "homepage": "https://github.com/xz/fonts#readme"
+}
