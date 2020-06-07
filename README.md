@@ -1,19 +1,29 @@
 # xz/fonts
 
-Break your users from unethical tracking networks. xz/fonts delivers exclusively open-source fonts through [Vercel](https://vercel.com)'s impossibly fast CDN. 
+**A fast, open-source CDN for open-source fonts.**
 
-Want to see for yourself? Watch how fast fonts render on [this page](https://fonts.xz.style/font-speed.html).
+xz/fonts is a free and open source service for delivering font families to websites using CSS. 
+
+Typically, web developers use custom fonts on their websites using one of two methods:
+- hosting font files on the same server as the website
+- using a central font service, such as Google Fonts or Adobe Typekit
+
+xz/fonts, by comparison:
+- serves font files through jsDelivr's global content delivery network
+- is fully open source and only serves open source fonts
+
+---
 
 For the font Inter, it's as easy as adding this to your CSS:
 
 ```css
-@import url('https://fonts.xz.style/serve/inter.css');
+@import url('https://cdn.jsdelivr.net/npm/@xz/fonts@1/serve/inter.css');
 ```
 
 or this to your HTML's `<head>`:
 
 ```html
-<link rel="stylesheet" href="https://fonts.xz.style/serve/inter.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@xz/fonts@1/serve/inter.css">
 ```
 
 ## Usage

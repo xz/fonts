@@ -19,3 +19,5 @@ Adding a font:
 7. Move the `.woff` and `.woff2` files to `/fonts/serve/src/font-name`
 8. Move the `.css` file to `/fonts/serve` and rename to `font-name.css`
 9. Open the `.css` file. Do a find-and-replace for all instances of `url('`, and replace it with `url('src/font-name/`. Use the same font name as above.
+
+You're done! Thanks x100 for contributing. Push your PR and I'll review it ASAP.
