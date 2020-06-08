@@ -4,6 +4,7 @@
         url('src/roboto-mono/RobotoMono-Medium.woff') format('woff');
     font-weight: 500;
     font-style: normal;
+    font-display: swap;
 }
 
 @font-face {
@@ -12,6 +13,7 @@
         url('src/roboto-mono/RobotoMono-Italic.woff') format('woff');
     font-weight: normal;
     font-style: italic;
+    font-display: swap;
 }
 
 @font-face {
@@ -20,6 +22,7 @@
         url('src/roboto-mono/RobotoMono-LightItalic.woff') format('woff');
     font-weight: 300;
     font-style: italic;
+    font-display: swap;
 }
 
 @font-face {
@@ -28,6 +31,7 @@
         url('src/roboto-mono/RobotoMono-ThinItalic.woff') format('woff');
     font-weight: 100;
     font-style: italic;
+    font-display: swap;
 }
 
 @font-face {
@@ -36,6 +40,7 @@
         url('src/roboto-mono/RobotoMono-MediumItalic.woff') format('woff');
     font-weight: 500;
     font-style: italic;
+    font-display: swap;
 }
 
 @font-face {
@@ -44,6 +49,7 @@
         url('src/roboto-mono/RobotoMono-Thin.woff') format('woff');
     font-weight: 100;
     font-style: normal;
+    font-display: swap;
 }
 
 @font-face {
@@ -52,6 +58,7 @@
         url('src/roboto-mono/RobotoMono-Bold.woff') format('woff');
     font-weight: bold;
     font-style: normal;
+    font-display: swap;
 }
 
 @font-face {
@@ -60,6 +67,7 @@
         url('src/roboto-mono/RobotoMono-Light.woff') format('woff');
     font-weight: 300;
     font-style: normal;
+    font-display: swap;
 }
 
 @font-face {
@@ -68,6 +76,7 @@
         url('src/roboto-mono/RobotoMono-Regular.woff') format('woff');
     font-weight: normal;
     font-style: normal;
+    font-display: swap;
 }
 
 @font-face {
@@ -76,5 +85,6 @@
         url('src/roboto-mono/RobotoMono-BoldItalic.woff') format('woff');
     font-weight: bold;
     font-style: italic;
+    font-display: swap;
 }
 

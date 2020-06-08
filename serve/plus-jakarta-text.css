@@ -5,6 +5,7 @@
         url('src/plus-jakarta-text/PlusJakartaText-Light.woff') format('woff');
     font-weight: 300;
     font-style: normal;
+    font-display: swap;
 }
 
 @font-face {
@@ -15,6 +16,7 @@
             format('woff');
     font-weight: 300;
     font-style: italic;
+    font-display: swap;
 }
 
 @font-face {
@@ -24,6 +26,7 @@
         url('src/plus-jakarta-text/PlusJakartaText-Regular.woff') format('woff');
     font-weight: normal;
     font-style: normal;
+    font-display: swap;
 }
 
 @font-face {
@@ -33,6 +36,7 @@
         url('src/plus-jakarta-text/PlusJakartaText-Italic.woff') format('woff');
     font-weight: normal;
     font-style: italic;
+    font-display: swap;
 }
 
 @font-face {
@@ -41,6 +45,7 @@
         url('src/plus-jakarta-text/PlusJakartaText-Bold.woff') format('woff');
     font-weight: bold;
     font-style: normal;
+    font-display: swap;
 }
 
 @font-face {
@@ -51,4 +56,5 @@
             format('woff');
     font-weight: bold;
     font-style: italic;
+    font-display: swap;
 }

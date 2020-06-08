@@ -4,6 +4,7 @@
         url('src/roboto-slab/RobotoSlab-Black.woff') format('woff');
     font-weight: 900;
     font-style: normal;
+    font-display: swap;
 }
 
 @font-face {
@@ -12,6 +13,7 @@
         url('src/roboto-slab/RobotoSlab-Medium.woff') format('woff');
     font-weight: 500;
     font-style: normal;
+    font-display: swap;
 }
 
 @font-face {
@@ -20,6 +22,7 @@
         url('src/roboto-slab/RobotoSlab-Regular.woff') format('woff');
     font-weight: normal;
     font-style: normal;
+    font-display: swap;
 }
 
 @font-face {
@@ -28,6 +31,7 @@
         url('src/roboto-slab/RobotoSlab-Thin.woff') format('woff');
     font-weight: 100;
     font-style: normal;
+    font-display: swap;
 }
 
 @font-face {
@@ -36,6 +40,7 @@
         url('src/roboto-slab/RobotoSlab-Bold.woff') format('woff');
     font-weight: bold;
     font-style: normal;
+    font-display: swap;
 }
 
 @font-face {
@@ -44,6 +49,7 @@
         url('src/roboto-slab/RobotoSlab-ExtraBold.woff') format('woff');
     font-weight: 800;
     font-style: normal;
+    font-display: swap;
 }
 
 @font-face {
@@ -52,6 +58,7 @@
         url('src/roboto-slab/RobotoSlab-SemiBold.woff') format('woff');
     font-weight: 600;
     font-style: normal;
+    font-display: swap;
 }
 
 @font-face {
@@ -60,6 +67,7 @@
         url('src/roboto-slab/RobotoSlab-Light.woff') format('woff');
     font-weight: 300;
     font-style: normal;
+    font-display: swap;
 }
 
 @font-face {
@@ -68,5 +76,6 @@
         url('src/roboto-slab/RobotoSlab-ExtraLight.woff') format('woff');
     font-weight: 200;
     font-style: normal;
+    font-display: swap;
 }
 
