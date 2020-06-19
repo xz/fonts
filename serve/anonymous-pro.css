@@ -4,6 +4,7 @@
         url('src/anonymous-pro/AnonymousPro-Italic.woff') format('woff');
     font-weight: normal;
     font-style: italic;
+    font-display: swap;
 }
 
 @font-face {
@@ -12,6 +13,7 @@
         url('src/anonymous-pro/AnonymousPro-Bold.woff') format('woff');
     font-weight: bold;
     font-style: normal;
+    font-display: swap;
 }
 
 @font-face {
@@ -20,6 +22,7 @@
         url('src/anonymous-pro/AnonymousPro.woff') format('woff');
     font-weight: normal;
     font-style: normal;
+    font-display: swap;
 }
 
 @font-face {
@@ -28,4 +31,5 @@
         url('src/anonymous-pro/AnonymousPro-BoldItalic.woff') format('woff');
     font-weight: bold;
     font-style: italic;
+    font-display: swap;
 }

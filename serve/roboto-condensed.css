@@ -4,6 +4,7 @@
         url('src/roboto-condensed/RobotoCondensed-Italic.woff') format('woff');
     font-weight: normal;
     font-style: italic;
+    font-display: swap;
 }
 
 @font-face {
@@ -12,6 +13,7 @@
         url('src/roboto-condensed/RobotoCondensed-Regular.woff') format('woff');
     font-weight: normal;
     font-style: normal;
+    font-display: swap;
 }
 
 @font-face {
@@ -20,6 +22,7 @@
         url('src/roboto-condensed/RobotoCondensed-LightItalic.woff') format('woff');
     font-weight: 300;
     font-style: italic;
+    font-display: swap;
 }
 
 @font-face {
@@ -28,6 +31,7 @@
         url('src/roboto-condensed/RobotoCondensed-Bold.woff') format('woff');
     font-weight: bold;
     font-style: normal;
+    font-display: swap;
 }
 
 @font-face {
@@ -36,6 +40,7 @@
         url('src/roboto-condensed/RobotoCondensed-Light.woff') format('woff');
     font-weight: 300;
     font-style: normal;
+    font-display: swap;
 }
 
 @font-face {
@@ -44,5 +49,6 @@
         url('src/roboto-condensed/RobotoCondensed-BoldItalic.woff') format('woff');
     font-weight: bold;
     font-style: italic;
+    font-display: swap;
 }
 
