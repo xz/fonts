@@ -1,7 +1,7 @@
 @font-face {
     font-family: 'Lato';
-    src: url('Lato-Medium.woff2') format('woff2'),
-        url('Lato-Medium.woff') format('woff');
+    src: url('src/lato/Lato-Medium.woff2') format('woff2'),
+        url('src/lato/Lato-Medium.woff') format('woff');
     font-weight: 500;
     font-style: normal;
     font-display: swap;
@@ -9,8 +9,8 @@
 
 @font-face {
     font-family: 'Lato';
-    src: url('Lato-Bold.woff2') format('woff2'),
-        url('Lato-Bold.woff') format('woff');
+    src: url('src/lato/Lato-Bold.woff2') format('woff2'),
+        url('src/lato/Lato-Bold.woff') format('woff');
     font-weight: bold;
     font-style: normal;
     font-display: swap;
@@ -18,8 +18,8 @@
 
 @font-face {
     font-family: 'Lato';
-    src: url('Lato-MediumItalic.woff2') format('woff2'),
-        url('Lato-MediumItalic.woff') format('woff');
+    src: url('src/lato/Lato-MediumItalic.woff2') format('woff2'),
+        url('src/lato/Lato-MediumItalic.woff') format('woff');
     font-weight: 500;
     font-style: italic;
     font-display: swap;
@@ -27,8 +27,8 @@
 
 @font-face {
     font-family: 'Lato';
-    src: url('Lato-Light.woff2') format('woff2'),
-        url('Lato-Light.woff') format('woff');
+    src: url('src/lato/Lato-Light.woff2') format('woff2'),
+        url('src/lato/Lato-Light.woff') format('woff');
     font-weight: 300;
     font-style: normal;
     font-display: swap;
@@ -36,8 +36,8 @@
 
 @font-face {
     font-family: 'Lato';
-    src: url('Lato-Heavy.woff2') format('woff2'),
-        url('Lato-Heavy.woff') format('woff');
+    src: url('src/lato/Lato-Heavy.woff2') format('woff2'),
+        url('src/lato/Lato-Heavy.woff') format('woff');
     font-weight: 900;
     font-style: normal;
     font-display: swap;
@@ -45,8 +45,8 @@
 
 @font-face {
     font-family: 'Lato';
-    src: url('Lato-BoldItalic.woff2') format('woff2'),
-        url('Lato-BoldItalic.woff') format('woff');
+    src: url('src/lato/Lato-BoldItalic.woff2') format('woff2'),
+        url('src/lato/Lato-BoldItalic.woff') format('woff');
     font-weight: bold;
     font-style: italic;
     font-display: swap;
@@ -54,8 +54,8 @@
 
 @font-face {
     font-family: 'Lato';
-    src: url('Lato-Thin.woff2') format('woff2'),
-        url('Lato-Thin.woff') format('woff');
+    src: url('src/lato/Lato-Thin.woff2') format('woff2'),
+        url('src/lato/Lato-Thin.woff') format('woff');
     font-weight: 100;
     font-style: normal;
     font-display: swap;
@@ -63,8 +63,8 @@
 
 @font-face {
     font-family: 'Lato';
-    src: url('Lato-ThinItalic.woff2') format('woff2'),
-        url('Lato-ThinItalic.woff') format('woff');
+    src: url('src/lato/Lato-ThinItalic.woff2') format('woff2'),
+        url('src/lato/Lato-ThinItalic.woff') format('woff');
     font-weight: 100;
     font-style: italic;
     font-display: swap;
@@ -72,8 +72,8 @@
 
 @font-face {
     font-family: 'Lato';
-    src: url('Lato-Regular.woff2') format('woff2'),
-        url('Lato-Regular.woff') format('woff');
+    src: url('src/lato/Lato-Regular.woff2') format('woff2'),
+        url('src/lato/Lato-Regular.woff') format('woff');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -81,8 +81,8 @@
 
 @font-face {
     font-family: 'Lato';
-    src: url('Lato-Black.woff2') format('woff2'),
-        url('Lato-Black.woff') format('woff');
+    src: url('src/lato/Lato-Black.woff2') format('woff2'),
+        url('src/lato/Lato-Black.woff') format('woff');
     font-weight: 900;
     font-style: normal;
     font-display: swap;
@@ -90,8 +90,8 @@
 
 @font-face {
     font-family: 'Lato';
-    src: url('Lato-HeavyItalic.woff2') format('woff2'),
-        url('Lato-HeavyItalic.woff') format('woff');
+    src: url('src/lato/Lato-HeavyItalic.woff2') format('woff2'),
+        url('src/lato/Lato-HeavyItalic.woff') format('woff');
     font-weight: 900;
     font-style: italic;
     font-display: swap;
@@ -99,8 +99,8 @@
 
 @font-face {
     font-family: 'Lato';
-    src: url('Lato-SemiboldItalic.woff2') format('woff2'),
-        url('Lato-SemiboldItalic.woff') format('woff');
+    src: url('src/lato/Lato-SemiboldItalic.woff2') format('woff2'),
+        url('src/lato/Lato-SemiboldItalic.woff') format('woff');
     font-weight: 600;
     font-style: italic;
     font-display: swap;
@@ -108,8 +108,8 @@
 
 @font-face {
     font-family: 'Lato';
-    src: url('Lato-Italic.woff2') format('woff2'),
-        url('Lato-Italic.woff') format('woff');
+    src: url('src/lato/Lato-Italic.woff2') format('woff2'),
+        url('src/lato/Lato-Italic.woff') format('woff');
     font-weight: normal;
     font-style: italic;
     font-display: swap;
@@ -117,8 +117,8 @@
 
 @font-face {
     font-family: 'Lato';
-    src: url('Lato-LightItalic.woff2') format('woff2'),
-        url('Lato-LightItalic.woff') format('woff');
+    src: url('src/lato/Lato-LightItalic.woff2') format('woff2'),
+        url('src/lato/Lato-LightItalic.woff') format('woff');
     font-weight: 300;
     font-style: italic;
     font-display: swap;
@@ -126,8 +126,8 @@
 
 @font-face {
     font-family: 'Lato';
-    src: url('Lato-BlackItalic.woff2') format('woff2'),
-        url('Lato-BlackItalic.woff') format('woff');
+    src: url('src/lato/Lato-BlackItalic.woff2') format('woff2'),
+        url('src/lato/Lato-BlackItalic.woff') format('woff');
     font-weight: 900;
     font-style: italic;
     font-display: swap;
@@ -135,8 +135,8 @@
 
 @font-face {
     font-family: 'Lato';
-    src: url('Lato-Semibold.woff2') format('woff2'),
-        url('Lato-Semibold.woff') format('woff');
+    src: url('src/lato/Lato-Semibold.woff2') format('woff2'),
+        url('src/lato/Lato-Semibold.woff') format('woff');
     font-weight: 600;
     font-style: normal;
     font-display: swap;

@@ -1,7 +1,7 @@
 @font-face {
     font-family: 'Merriweather';
-    src: url('src/merriweather-blackitalic.woff2') format('woff2'),
-        url('src/merriweather-blackitalic.woff') format('woff');
+    src: url('src/merriweather/merriweather-blackitalic.woff2') format('woff2'),
+        url('src/merriweather/merriweather-blackitalic.woff') format('woff');
     font-weight: 900;
     font-style: italic;
     font-display: swap;
@@ -9,8 +9,8 @@
 
 @font-face {
     font-family: 'Merriweather';
-    src: url('src/merriweather-italic.woff2') format('woff2'),
-        url('src/merriweather-italic.woff') format('woff');
+    src: url('src/merriweather/merriweather-italic.woff2') format('woff2'),
+        url('src/merriweather/merriweather-italic.woff') format('woff');
     font-weight: normal;
     font-style: italic;
     font-display: swap;
@@ -18,8 +18,8 @@
 
 @font-face {
     font-family: 'Merriweather';
-    src: url('src/merriweather-lightitalic.woff2') format('woff2'),
-        url('src/merriweather-lightitalic.woff') format('woff');
+    src: url('src/merriweather/merriweather-lightitalic.woff2') format('woff2'),
+        url('src/merriweather/merriweather-lightitalic.woff') format('woff');
     font-weight: 300;
     font-style: italic;
     font-display: swap;
@@ -27,8 +27,8 @@
 
 @font-face {
     font-family: 'Merriweather';
-    src: url('src/merriweather-light.woff2') format('woff2'),
-        url('src/merriweather-light.woff') format('woff');
+    src: url('src/merriweather/merriweather-light.woff2') format('woff2'),
+        url('src/merriweather/merriweather-light.woff') format('woff');
     font-weight: 300;
     font-style: normal;
     font-display: swap;
@@ -36,8 +36,8 @@
 
 @font-face {
     font-family: 'Merriweather';
-    src: url('src/merriweather-black.woff2') format('woff2'),
-        url('src/merriweather-black.woff') format('woff');
+    src: url('src/merriweather/merriweather-black.woff2') format('woff2'),
+        url('src/merriweather/merriweather-black.woff') format('woff');
     font-weight: 900;
     font-style: normal;
     font-display: swap;
@@ -45,8 +45,8 @@
 
 @font-face {
     font-family: 'Merriweather';
-    src: url('src/merriweather-bold.woff2') format('woff2'),
-        url('src/merriweather-bold.woff') format('woff');
+    src: url('src/merriweather/merriweather-bold.woff2') format('woff2'),
+        url('src/merriweather/merriweather-bold.woff') format('woff');
     font-weight: bold;
     font-style: normal;
     font-display: swap;
@@ -54,8 +54,8 @@
 
 @font-face {
     font-family: 'Merriweather';
-    src: url('src/merriweather-regular.woff2') format('woff2'),
-        url('src/merriweather-regular.woff') format('woff');
+    src: url('src/merriweather/merriweather-regular.woff2') format('woff2'),
+        url('src/merriweather/merriweather-regular.woff') format('woff');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -63,8 +63,8 @@
 
 @font-face {
     font-family: 'Merriweather';
-    src: url('src/merriweather-bolditalic.woff2') format('woff2'),
-        url('src/merriweather-bolditalic.woff') format('woff');
+    src: url('src/merriweather/merriweather-bolditalic.woff2') format('woff2'),
+        url('src/merriweather/merriweather-bolditalic.woff') format('woff');
     font-weight: bold;
     font-style: italic;
     font-display: swap;
