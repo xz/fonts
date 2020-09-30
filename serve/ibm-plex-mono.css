@@ -1,5 +1,4 @@
-
-font-display: swap;@font-face {
+@font-face {
     font-family: 'IBM Plex Mono';
     src: url('src/ibm-plex-mono/IBMPlexMono-ThinItalic.woff2') format('woff2'),
         url('src/ibm-plex-mono/IBMPlexMono-ThinItalic.woff') format('woff');
