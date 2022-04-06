@@ -1,0 +1,8 @@
+@font-face {
+	font-family: 'Dyuthi';
+	font-style: normal;
+	font-display: swap;
+	font-weight: 400;
+	src: url('src/dyuthi/Dyuthi-Regular.woff2') format('woff2'), url('src/dyuthi/Dyuthi-Regular.woff') format('woff');
+	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+0D01-0D7F, U+200C-U+200D, U+25CC;
+}
