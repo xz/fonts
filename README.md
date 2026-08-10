@@ -37,6 +37,3 @@ Don't worry! [Open an issue here](https://github.com/xz/fonts/issues). I'll glad
 ## Special Thanks
 
 ❤️ to [transfonter.org](https://transfonter.org/) for providing a fast and reliable service for converting `.ttf` font files to multiple web formats. If you love what they do, consider [donating](https://transfonter.org/donate) to them! I'm not affiliated in any way, just love the service.
-
-***
-<a href="https://vercel.com" target="_blank">![Powered by Vercel](https://vercel-badges.now.sh/powered-by-vercel.svg)</a>
